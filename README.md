@@ -14,7 +14,7 @@ Through structured SQL queries, it provides hands-on examples of real-world busi
 |---------------|-------------|
 | `sql/SQL_Answers.sql` | Full SQL script containing all queries and operations |
 | `database/Company_SD.bak` | Backup file of the original database |
-| `docs/SQL Questions.docx` | The assignment questions provided |
+| `docs/SQL Questions.docx` | The Project questions provided |
 | `README.md` | Project documentation and usage guide |
 
 ---
