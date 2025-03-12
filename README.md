@@ -44,10 +44,6 @@ Through structured SQL queries, it provides hands-on examples of real-world busi
 
 ---
 
-## 📦 Getting Started
-
-1. **Clone the repository:**
-
 ## 📊 Insights
 
 ✅ Managers & Supervisors form a layered hierarchy crucial to reporting structures.
