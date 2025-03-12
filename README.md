@@ -12,9 +12,9 @@ Through structured SQL queries, it provides hands-on examples of real-world busi
 
 | Folder / File | Description |
 |---------------|-------------|
-| `sql/Company_SD_Assignment.sql` | Full SQL script containing all queries and operations |
+| `sql/SQL_Answers.sql` | Full SQL script containing all queries and operations |
 | `database/Company_SD.bak` | Backup file of the original database |
-| `docs/Company_SD_Assignment_Questions.docx` | The assignment questions provided |
+| `docs/SQL Questions.docx` | The assignment questions provided |
 | `README.md` | Project documentation and usage guide |
 
 ---
@@ -50,7 +50,7 @@ Through structured SQL queries, it provides hands-on examples of real-world busi
 
 📊 Insights
 ✅ Managers & Supervisors form a layered hierarchy crucial to reporting structures.
-✅ Project Distribution shows significant imbalance in work hours across projects.
+✅ Project Distribution shows a significant imbalance in work hours across projects.
 ✅ Department Salary Analysis reveals financial spread and team sizes.
 ✅ Reusable Views help modularize analysis, enabling clean report structures.
 ✅ Data Insertions & Updates simulate HR operations in real environments.
@@ -69,5 +69,5 @@ Through structured SQL queries, it provides hands-on examples of real-world busi
 This SQL project demonstrates real-world database operations on a company dataset.
 It combines structured queries with business logic to reveal meaningful insights and simulate scenarios like salary updates and employee insertions.
 
-Whether you're analyzing organizational structure, monitoring department efficiency, or performing role-based filtering, this project offers a comprehensive demonstration of SQL in action.
+This project offers a comprehensive demonstration of SQL in action, whether you're analyzing organizational structure, monitoring department efficiency, or performing role-based filtering.
 
