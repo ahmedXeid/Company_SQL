@@ -48,14 +48,16 @@ Through structured SQL queries, it provides hands-on examples of real-world busi
 
 1. **Clone the repository:**
 
-##📊 Insights
+## 📊 Insights
+
 ✅ Managers & Supervisors form a layered hierarchy crucial to reporting structures.
 ✅ Project Distribution shows a significant imbalance in work hours across projects.
 ✅ Department Salary Analysis reveals financial spread and team sizes.
 ✅ Reusable Views help modularize analysis, enabling clean report structures.
 ✅ Data Insertions & Updates simulate HR operations in real environments.
 
-##🧩 Challenges & Solutions
+## 🧩 Challenges & Solutions
+
 ✅ Challenge: Subquery Complexity
 ➤ Used CTEs and temporary views to improve readability.
 ✅ Challenge: Missing Data in Joins
@@ -65,7 +67,8 @@ Through structured SQL queries, it provides hands-on examples of real-world busi
 ✅ Challenge: Simulating Updates Safely
 ➤ Used SELECT-based simulation of UPDATE to preview data changes without affecting real tables.
 
-##✅ Conclusion
+## ✅ Conclusion
+
 This SQL project demonstrates real-world database operations on a company dataset.
 It combines structured queries with business logic to reveal meaningful insights and simulate scenarios like salary updates and employee insertions.
 
