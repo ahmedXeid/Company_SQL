@@ -48,9 +48,6 @@ Through structured SQL queries, it provides hands-on examples of real-world busi
 
 1. **Clone the repository:**
 
-```bash
-git clone https://github.com/your-username/Company_SD_SQL_Project.git
-
 📊 Insights
 ✅ Managers & Supervisors form a layered hierarchy crucial to reporting structures.
 ✅ Project Distribution shows significant imbalance in work hours across projects.
