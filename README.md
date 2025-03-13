@@ -46,11 +46,11 @@ Through structured SQL queries, it provides hands-on examples of real-world busi
 
 ## 📊 Insights
 
-✅ Managers & Supervisors form a layered hierarchy crucial to reporting structures.
-✅ Project Distribution shows a significant imbalance in work hours across projects.
-✅ Department Salary Analysis reveals financial spread and team sizes.
-✅ Reusable Views help modularize analysis, enabling clean report structures.
-✅ Data Insertions & Updates simulate HR operations in real environments.
+-✅ Managers & Supervisors form a layered hierarchy crucial to reporting structures.
+-✅ Project Distribution shows a significant imbalance in work hours across projects.
+-✅ Department Salary Analysis reveals financial spread and team sizes.
+-✅ Reusable Views help modularize analysis, enabling clean report structures.
+-✅ Data Insertions & Updates simulate HR operations in real environments.
 
 ## 🧩 Challenges & Solutions
 
