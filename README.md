@@ -55,12 +55,19 @@ Through structured SQL queries, it provides hands-on examples of real-world busi
 ## 🧩 Challenges & Solutions
 
 ✅ Challenge: Subquery Complexity
+
 ➤ Used CTEs and temporary views to improve readability.
+
 ✅ Challenge: Missing Data in Joins
+
 ➤ Applied LEFT JOINs with COALESCE to show null-safe outputs.
+
 ✅ Challenge: Query Performance and Readability
+
 ➤ Broke long queries into logical steps with comments and structured indentation.
+
 ✅ Challenge: Simulating Updates Safely
+
 ➤ Used SELECT-based simulation of UPDATE to preview data changes without affecting real tables.
 
 ## ✅ Conclusion
